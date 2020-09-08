@@ -1,7 +1,7 @@
 # wintermux
 Script For Install Windows In Android By Termux. Without Root.
 ---
-## • First Download .iso File
+## • First Download WIN10TP.iso File
 * Go to http://bit.ly/wintermux.
 * Download WIN10TP.iso file from link given above. File size is about 480mb. 
 * Put this file in download folder. don't change name of iso file.
