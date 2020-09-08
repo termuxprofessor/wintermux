@@ -1,4 +1,4 @@
-# wintermux
+# WinTermux
 Script For Install Windows In Android By Termux. Without Root.
 ---
 ## • First Download WIN10TP.iso File
