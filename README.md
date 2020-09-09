@@ -8,6 +8,7 @@ Script For Install Windows In Android By Termux. Without Root.
 * Then open temux and give following commands.
 
 ## • How To Install In Termux
+`$ termux-setup-storage`
 
 `$ pkg up -y`
 
