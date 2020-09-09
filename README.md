@@ -22,7 +22,6 @@ Script For Install Windows In Android By Termux. Without Root.
 
 `$ bash wintermux.sh`
 
-* Download VNC viewer app.
 Download and open VNC viewer app from playstore. Create new connection. Set server as 127.0.0.1:2. Then Connect.
 
 And You are Ready to Rock....
