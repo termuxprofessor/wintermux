@@ -1,7 +1,7 @@
 #!/bin/bash
 #Do not copy or edit code read LICENSE First.
 #This Script is coded by Termux Professor (Youtuber)
-#banner 
+#banner
 clear
 echo -e "\e[1;92m ╦ ╦┬┌┐┌ \e[1;91m╔╦╗┌─┐┬─┐┌┬┐┬ ┬─┐ ┬"
 echo -e "\e[1;92m ║║║││││  \e[1;91m║ ├┤ ├┬┘││││ │┌┴┬┘"
